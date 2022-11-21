@@ -121,6 +121,7 @@
         <module>kamelet-main</module>
         <module>kamelet-sql</module>
         <module>kotlin</module>
+        <module>kubernetes-namespaces</module>
         <module>loan-broker-cxf</module>
         <module>loadbalancing</module>
         <module>loan-broker-jms</module>
